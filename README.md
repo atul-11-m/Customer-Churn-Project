@@ -1,1 +1,1 @@
-# Customer-Churn-Project
+# Acclerator-Projects
